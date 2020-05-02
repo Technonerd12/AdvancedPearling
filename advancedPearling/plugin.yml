@@ -1,0 +1,7 @@
+name: advancedPearling
+main: me.technonerd12.advancedPearling.Main
+version: 1.0
+author: Technonerd12
+commands:
+   resetcooldown:
+      description: This command is simply a placeholder
